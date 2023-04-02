@@ -1,0 +1,50 @@
+body {
+	
+    font-family: 'Poppins';
+	
+}
+
+h1 {
+	font-weight: 400;
+	margin: 1vw;
+	text-align: left;
+	color: var(--heading-color);
+    
+}
+
+h2{
+	font-weight: 500;
+	margin: 1vw;
+	text-align: left;
+	color: var(--heading-color);
+}
+
+h3{
+	font-weight: 400;
+	margin: 1vw;
+	text-align: left;
+	color: var(--text-color);
+}
+
+.bold {
+	display: inline-block;
+	font-weight: bold;
+}
+
+p {
+	text-align: justify;
+    color: var(--text-color);
+	margin: 1vw;
+	font-weight: 250;
+}
+
+a {
+	color: inherit;
+}
+
+.div{
+	font-weight: 400;
+	
+	text-align: left;
+	color: var(--text-color);
+}
