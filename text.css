@@ -44,12 +44,6 @@ p {
 	font-weight: 250;
 }
 
-ul,li{
-	text-align: justify;
-    color: var(--text-color);
-	margin: 1vw;
-	font-weight: 250;
-}
 
 a {
 	color: inherit;
