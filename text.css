@@ -25,6 +25,12 @@ h3{
 	text-align: left;
 	color: var(--text-color);
 }
+h4{
+	font-weight: 600;
+	margin: 1vw;
+	text-align: left;
+	color: var(--text-color);
+}
 
 .bold {
 	display: inline-block;
