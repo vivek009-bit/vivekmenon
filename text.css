@@ -13,14 +13,14 @@ h1 {
 }
 
 h2{
-	font-weight: 500;
+	font-weight: 800;
 	margin: 1vw;
 	text-align: left;
 	color: var(--heading-color);
 }
 
 h3{
-	font-weight: 400;
+	font-weight: 600;
 	margin: 1vw;
 	text-align: left;
 	color: var(--text-color);
